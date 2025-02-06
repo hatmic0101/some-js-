@@ -1,1 +1,1 @@
-# some-js-
+some js from my journey
